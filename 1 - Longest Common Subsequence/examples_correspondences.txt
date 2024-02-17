@@ -1,0 +1,26 @@
+# student number: 17-932-161
+
+# The example (1) out of the assignment
+$ ./correspondences.sh inputs/abc1.txt inputs/abc2.txt
+1 6
+2 5
+3 1
+8 1
+4 4
+6 4
+5 2
+5 3
+7 2
+7 3
+
+# example out with a sentence out of "Another Country"
+$ ./correspondences.sh inputs/text1.txt inputs/text2.txt
+9 9
+2 3
+1 2
+5 6
+4 5
+3 4
+3 7
+6 4
+6 7

@@ -1,0 +1,13 @@
+# student number: 17-932-161
+
+# example out of assignment
+$ python3 upsequence.py < inputs/test_program.txt
+1
+2
+3
+
+# own simple example
+$ python3 upsequence.py < inputs/test_program2.txt
+0
+1
+10

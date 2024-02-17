@@ -1,0 +1,17 @@
+# student number: 17-932-161
+
+# abc example out of assignment
+$ ./lcss.sh inputs/abc1.txt inputs/abc2.txt
+c
+e
+e
+
+# example out with a sentence out of "Another Country"
+$ ./lcss.sh inputs/text1.txt inputs/text2.txt
+how
+can
+you
+live
+if
+you
+?
