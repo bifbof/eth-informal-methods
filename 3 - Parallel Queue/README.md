@@ -18,4 +18,4 @@ Feedback on my solution:
 
   Also note that your invariant double counts the element to be popped between [HR.18] and [HR.20].
 
-Further does my non-interference proof not work because the exclusivity thing is not really given if you free the lock. I think the program is correct but then the exclusivity is gone and interference would be possible. This probably relates to question 15
+Further does my non-interference proof not work because there is one step after the lock that isn't protected by the invariant. This probably relates to question 15
