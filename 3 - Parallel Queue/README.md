@@ -1,6 +1,6 @@
 # THIS CODE IS NOT COMPLETELY CORRECT! 
 
-If got some mistakes in the code and I am too lazy to change them now :D
+I've got some mistakes in the code and I am too lazy to change them now :D
 
 Feedback on my solution:
 
